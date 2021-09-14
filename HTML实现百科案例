@@ -1,0 +1,29 @@
+# HTTL-CSS
+HTTL+CSS学习笔记
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1> Soul </h1>
+    <p>《心灵奇旅》是由华特迪士尼公司、皮克斯动画工作室联合出品，彼特·道格特、凯普·鲍尔斯联合执导的奇幻动画电影，由杰米·福克斯、蒂娜·菲、菲利西亚·拉斯海德等人参与配音，该片于2020年12月25日在中国大陆上映。该片讲述了梦想成为爵士钢琴家的男主乔伊·高纳与厌世的灵魂22相遇，它们携手返回现实世界寻找生命的意义的故事。</p>
+    <h2>目录 </h2>
+    <a href="#intro">剧情简介</a>&nbsp;&nbsp;&nbsp;<a href="#price">获奖记录</a> <br/>
+    <a href="#com">影片评价</a>&nbsp;&nbsp;&nbsp;<a href="#music">音乐原声</a><br/>
+    <img src="https://bkimg.cdn.bcebos.com/pic/a2cc7cd98d1001e939012ba9e0446cec54e736d13949?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxNTA=,g_7,xp_5,yp_5/format,f_auto"> 
+    <h4 id="intro">剧情简介</h4>
+    <img src="https://bkimg.cdn.bcebos.com/pic/71cf3bc79f3df8dcd100bfcc695f658b4710b9128212?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U5Mg==,g_7,xp_5,yp_5/format,f_auto">
+    <p>热爱爵士乐的中学音乐教师乔伊·高纳<a href="https://baike.baidu.com/item/%E6%9D%B0%E7%B1%B3%C2%B7%E7%A6%8F%E5%85%8B%E6%96%AF/5151511" target="_blank">(杰米&nbsp;福克斯</a>配)不懈地追逐梦想，最终获得梦寐以求的登台演奏机会。可因为一次意外事故，乔伊的肉体几近死亡，而灵魂却误入了一个人类经验之外的奇幻之境——“生之来处”。原来，“生之来处”是所有灵魂先于地球之前而存在的独特空间。在这里，人类的自我意识在生命诞生之前先在地被赋予，每个灵魂只有觅得自身的“火花”，才能投身于地球。也是在这里，决心重返地球的乔伊遇见了一个孤僻、早熟而厌世的灵魂“22”,两人重返地球，共同体验了一段诡谲而奇妙的生命旅程，并开始重构自身存在的价值与意义</p>
+    <h4 id="price">获奖记录</h4>
+    <img src="https://bkimg.cdn.bcebos.com/pic/cf1b9d16fdfaaf51f3de67a6281a83eef01f3a29ccd1?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxMTY=,g_7,xp_5,yp_5/format,f_auto">
+    <p>第48届安妮奖:最佳动画音乐<br/> 第47届英国电影学院奖:最佳动画音乐</p>
+    <h4 id="com">影片评价</h4>
+    <P>总之，一个人如何形成自我，个体如何形成信念和行为的体系，每个人如何判断人生的真相和意义，不只是影片通过目标、世界和隐喻探寻的问题，也是每个人都要面对的一些本质性问题。已经生成的梦想，需要继续努力去实现；还没有找到激发自己的火花，那就要坚持不断地尝试。故事里的人物有目标，现实中的每个人有梦想，当下并不意味着无所事事、虚度光阴，当下实则隐喻着跳出执念、妄念，面对自己和自己的“世界”。（光明网 评）</P>
+    <h4 id="music">音乐原声</h4>
+    <p>It's All Right<br/>Just Us<br/>joe's Lowdown Blues<br/>Terry Time<br/>The Great Beyond<br/>Portal/The Hall of Everything</p>
+</body>
+</html>
